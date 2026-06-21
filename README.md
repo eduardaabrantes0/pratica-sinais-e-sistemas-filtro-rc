@@ -99,9 +99,9 @@ Apresenta frequência de corte consistente com os cálculos
 
 Autores:
 
-João Vitor Moreno Matos
-
 Eriklys Jonathan Gomes de Almeida
+
+João Vitor Moreno Matos
 
 Maria Eduarda Abrantes da Silva
 
@@ -113,7 +113,7 @@ Disciplina:
 
 Sinais e Sistemas
 
-🚀 Como usar este projeto
+Como usar este projeto
 Clone o repositório
 Execute o código em Python (caso incluído)
 Analise os gráficos gerados
